@@ -1,8 +1,28 @@
-.titulo-solar{
-    background-color: rgba(173, 216, 230, 0.404);
+.titulo-solar {
+    background-color: rgba(255, 160, 122, 0.349);
     text-align: center;
 }
 
-body{
+body {
     background-color: rgba(119, 136, 153, 0.226);
+}
+
+div img .imagen-index {
+    width: 100px;
+}
+
+footer {
+    background-color: lightblue;
+    padding: 0 20px;
+    display: grid;
+grid-template-columns: 1fr 1fr;
+}
+
+.logo-instagram {
+    width: 20%;
+}
+
+.logo-facebook {
+    width: 20%;
+
 }
