@@ -11,18 +11,23 @@ div img .imagen-index {
     width: 100px;
 }
 
-footer {
+.footer {
     background-color: lightblue;
     padding: 0 20px;
-    display: grid;
-grid-template-columns: 1fr 1fr;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 
 .logo-instagram {
     width: 20%;
+
 }
+
+
 
 .logo-facebook {
     width: 20%;
-
+    float: right;
 }
