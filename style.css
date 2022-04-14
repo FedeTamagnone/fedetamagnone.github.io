@@ -31,6 +31,30 @@ p {
     font-size: medium;
 }
 
+/* -------------------------------- Preguntas ------------------------------- */
+
+.pregunta{
+    color: rgb(12, 12, 141);
+    font-size: small;
+    margin: 10px 0;
+}
+
+.consulta{
+    margin-top: 30px;
+
+}
+
+
+/* -------------------------------- Contacto -------------------------------- */
+.boton{
+display: flex;
+justify-content: flex-end;
+margin: 20px;
+}
+
+
+
+
 
 /* --------------------------------- footer --------------------------------- */
 .footer {
